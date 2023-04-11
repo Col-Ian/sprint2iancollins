@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Spaniel",
+    "avatarImg": "https://images.unsplash.com/photo-1618233921349-69bfe8df7815?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dolorem quasi sequi nisi quos at commodi rerum, quidem qui quis expedita, vero quae officiis laboriosam culpa accusamus necessitatibus consequuntur aperiam asperiores aspernatur a officia earum vel? Optio debitis, eos odit, blanditiis explicabo veniam reiciendis provident eum cupiditate recusandae architecto atque doloremque nostrum fugit mollitia, necessitatibus nisi temporibus dicta laudantium! Porro!"
+  },
+  {
+    "id": 2,
+    "firstName": "Johanna",
+    "lastName": "Calico",
+    "avatarImg": "https://images.unsplash.com/photo-1526452765549-517b13adb4f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore natus dolores error omnis, saepe voluptatem aut placeat corporis delectus. Accusamus ratione reprehenderit tenetur aut alias quod magnam quas sapiente inventore ducimus magni distinctio, repellendus nihil saepe impedit, doloremque qui fuga pariatur rerum libero atque? Magnam ad vero sapiente minus error odio amet totam, cupiditate veniam. Ratione dolor odit in consequatur!"
+  },
+  {
+    "id": 3,
+    "firstName": "Daniel",
+    "lastName": "Retriever",
+    "avatarImg": "https://images.unsplash.com/photo-1554456854-55a089fd4cb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolorum aperiam totam autem consectetur repellat laboriosam corporis laborum ut nostrum! Neque, suscipit! Magni eum nam molestiae culpa! Quasi, itaque architecto quaerat rem odit, deserunt eius, possimus dolore voluptates provident deleniti fugit? Nesciunt consectetur ratione, earum provident dignissimos ea assumenda explicabo voluptates repellendus at consequuntur reprehenderit? Autem officiis provident quaerat delectus."
+  },
+  {
+    "id": 4,
+    "firstName": "Trevor",
+    "lastName": "Ragdoll",
+    "avatarImg": "https://images.unsplash.com/photo-1568470010257-111aa304d53b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1468&q=80",
+    "textContent": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla odit et architecto similique numquam ad iusto enim sunt harum, quas rem in dolorum natus. Consequuntur odio distinctio iusto voluptatem accusamus, doloribus nihil voluptates hic nemo animi possimus! Autem dolorem obcaecati voluptatibus minima aliquid eius sed placeat ea quidem veniam odio aperiam, laborum officia voluptate quia accusantium ab voluptatum, itaque iure!"
+  },
+  {
+    "id": 5,
+    "firstName": "Susan",
+    "lastName": "Tabby",
+    "avatarImg": "https://images.unsplash.com/photo-1507507000951-ce2a7d8fcc39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis culpa corrupti iusto eveniet laborum non exercitationem dolores inventore dicta nostrum ducimus odio a voluptate quas tenetur illum, praesentium magnam repudiandae tempora aliquid et modi! Ullam mollitia iusto delectus voluptate, quis error optio eaque aperiam praesentium temporibus accusantium quod accusamus non atque quo facere odit vitae illo dolorum corporis esse saepe?"
+  }
+]
